@@ -7,6 +7,7 @@
 # Restaurants Website with Angular & Nodejs <img width="70px"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/angular.gif"> <img width="150px" src="https://github.com/somerongit/somerongit/blob/main/img/nodejs.gif">
 ### [Demo](https://youtu.be/Ft0a5edCduk)
 <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/project/Angular%20Res.jpg">
+<!--
 ## Documentation
 
 [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md)
@@ -25,6 +26,8 @@
  `ng test` 
  `ng e2e`
 
+
+-->
 <!--
     Title: Restaurants Website in Angular 
     Author: somerongit (Someron Bakuli) 
