@@ -4,7 +4,7 @@
 -->
 
 
-# Restaurants Website Implemented with Angular <img width="70px"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/angular.gif">
+# Restaurants Website Implemented with Angular & Nodejs <img width="70px"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/angular.gif">
 ### [Demo](https://youtu.be/Ft0a5edCduk)
 <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/project/Angular%20Res.jpg">
 ## Documentation
