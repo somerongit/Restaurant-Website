@@ -127,7 +127,7 @@ dishRouter.route('/:dishId/comments')
                         dish.comments.id(dish.comments[i]._id).remove();
                     }
                     dish.save()
-                        .then((dish) => { 
+                        .then((dish) => {
                             res.statusCode = 200;
                             res.setHeader('Content-Type', 'application/json');
                             res.json(dish);
