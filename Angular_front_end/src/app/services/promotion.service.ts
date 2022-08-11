@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Promotion } from '../shared/promotion';
 import { PROMOTIONS } from '../shared/promotions';
-import { Observable,of } from 'rxjs';
+import { Observable, of } from 'rxjs';
 import { delay } from 'rxjs/operators';
 @Injectable({
   providedIn: 'root'

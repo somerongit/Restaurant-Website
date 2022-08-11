@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Observable,of } from 'rxjs';
+import { Observable, of } from 'rxjs';
 import { delay } from 'rxjs/operators';
 import { Dish } from '../shared/dish';
 import { DISHES } from '../shared/dishes';
@@ -23,7 +23,7 @@ export class DishService {
   }
 
   getDishIds(): Observable<string[] | any> {
-    return of(DISHES.map(dish=>dish.id));
+    return of(DISHES.map(dish => dish.id));
   }
 }
 
